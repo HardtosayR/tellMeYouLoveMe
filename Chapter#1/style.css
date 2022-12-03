@@ -1,0 +1,38 @@
+.container {
+  background: no-repeat url("beach.jpg");
+  background-attachment: fixed;
+  font-family: "Poppins", "sans-serif";
+  color: white;
+}
+
+#title {
+  text-align: center;
+  font-size: 2rem;
+}
+
+#description {
+  text-align: center;
+  font-style: italic;
+}
+
+div.col {
+  padding: 0;
+  margin-right: 0;
+  max-width: 720px;
+}
+
+.d-inline {
+  font-size: 0.8rem;
+}
+
+.form-group {
+  padding-bottom: 1em;
+}
+
+.form-group label {
+  font-size: 1.2em;
+}
+
+form {
+  background-color: rgba(55, 91, 169, 0.8);
+}
